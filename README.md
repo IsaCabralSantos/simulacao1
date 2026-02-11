@@ -1,11 +1,11 @@
 # PROJETO EMPRESARIAL 💼
-[] descrição objetiva do projeto desenvolvido 
+[ ] descrição objetiva do projeto desenvolvido 
 
 ## PROBLEMA 
-[] especificar motivação da criação do produto
+[ ] especificar motivação da criação do produto
 
 ## PÚBLICO 
-[] especificar para quem o produto é direcionado
+[ ] especificar para quem o produto é direcionado
 
 ## OBJETIVO
-[] lista dos objetivos
+[ ] lista dos objetivos
