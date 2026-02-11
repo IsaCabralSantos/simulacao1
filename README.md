@@ -1,2 +1,4 @@
 # simulacao1
-Repositorio para relembrar
+Aula01 Engenharia de Software
+
+👾Atividade Prática — Criando seu Repositório
